@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Locator Compass","color":"red","bold":true}," loaded!"]

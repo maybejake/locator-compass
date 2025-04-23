@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 74,
+    "description": "Only display the locator bar while holding a compass!"
+  },
+  "id": "locatorcompass"
+}
